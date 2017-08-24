@@ -1,6 +1,6 @@
 # tool-shed
 
-- [My Header](#my-custom-header)
+[My Header](#my-custom-header)
 
 Mostly command line tools, tested on OSX that I've found useful doing everyday job
 
@@ -33,4 +33,4 @@ Vivamus dolor sem, convallis vitae urna tempus, porta mollis felis. Vestibulum a
 
 
 
-# [](#my-custom-header)Header
+# My Custom Header
